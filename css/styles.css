@@ -6,13 +6,20 @@
 
 
 .caja1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height: 200px;
     background-color: chartreuse;
     border:  4px black solid;
+
 }
 
 
 .caja2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height: 200px;
     background-color:#FF5733;
     border:  4px black solid;
@@ -21,6 +28,9 @@
 
 
 .caja3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height: 200px;
     background-color:#0e44f7;
     border:  4px black solid;
