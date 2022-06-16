@@ -1,0 +1,185 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+.caja1{
+    height: 200px;
+    background-color: chartreuse;
+    border:  4px black solid;
+}
+
+
+.caja2{
+    height: 200px;
+    background-color:#FF5733;
+    border:  4px black solid;
+    box-shadow: 15PX 15PX 15px  white;
+}
+
+
+.caja3{
+    height: 200px;
+    background-color:#0e44f7;
+    border:  4px black solid;
+
+}
+
+
+.caja4{
+    height: 200px;
+    background-color:green;
+    border:  4px black solid;
+}
+
+.caja5{
+    height: 200px;
+    background-color:indigo;
+    border:  4px black solid;
+}
+.caja6{
+    height: 200px;
+    background-color:lightcyan;
+    border:  4px black solid;
+}
+
+.caja7{
+    height: 200px;
+    background-color:lightgreen;
+    border:  4px black solid;
+}
+
+.caja8{
+    height: 200px;
+    background-color:lime;
+    border:  4px black solid;
+}
+
+
+.caja9{
+    height: 200px;
+    background-color:magenta;
+    border:  4px black solid;
+}
+
+
+.caja10{
+    height: 200px;
+    background-color:olivedrab;
+    border:  4px black solid;
+}
+
+.caja11{
+    height: 200px;
+    background-color:royalblue;
+    border:  4px black solid;
+}
+
+.caja12{
+    height: 200px;
+    background-color:skyblue;
+    border:  4px black solid;
+}
+
+.caja13{
+    height: 200px;
+    background-color:tomato;
+    border:  4px black solid;
+}
+
+.caja14{
+    height: 200px;
+    background-color: chartreuse;
+    border:  4px black solid;
+}
+
+
+.caja15{
+    height: 200px;
+    background-color:#FF5733;
+    border:  4px black solid;
+}
+
+.caja16{
+    height: 200px;
+    background-color:#0e44f7;
+    border:  4px black solid;
+
+}
+
+
+.caja17{
+    height: 200px;
+    background-color:green;
+    border:  4px black solid;
+}
+
+.caja18{
+    height: 200px;
+    background-color:indigo;
+    border:  4px black solid;
+}
+.caja19{
+    height: 200px;
+    background-color:yellow;
+    border:  4px black solid;
+}
+
+.caja20{
+    height: 200px;
+    background-color:blue;
+    border:  4px black solid;
+}
+
+.caja21{
+    height: 200px;
+    background-color:crimson;
+    border:  4px black solid;
+}
+
+
+.caja22{
+    height: 200px;
+    background-color:darksalmon;
+    border:  4px black solid;
+}
+
+
+.caja23{
+    height: 200px;
+    background-color:dimgray;
+    border:  4px black solid;
+}
+
+.caja24{
+    height: 200px;
+    background-color:firebrick;
+    border:  4px black solid;
+}
+
+.caja25{
+    height: 200px;
+    background-color:green;
+    border:  4px black solid;
+}
+
+.caja26{
+    height: 200px;
+    background-color:hotpink;
+    border:  4px black solid;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+}
+
+h3{
+    font-family: 'Dancing Script', cursive;
+}
+
+
+h4{
+    font-family: 'Dancing Script', cursive;
+}
